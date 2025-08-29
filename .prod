@@ -2,7 +2,7 @@ APP_NAME=soden
 APP_ENV=Production
 APP_KEY=
 APP_DEBUG=false
-APP_URL=https://denken-soden
+APP_URL=https://denken-soden.odclaravel.tech
 
 APP_LOCALE=en
 APP_FALLBACK_LOCALE=en
